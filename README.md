@@ -1,6 +1,6 @@
 # DeviceInfo
 
-![Compose BOM](https://img.shields.io/badge/Compose%20Bom-2023.08.00-blue)
+![Compose BOM](https://img.shields.io/badge/Compose%20Bom-2026.03.00-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-purple)
 ![Min Sdk](https://img.shields.io/badge/Min%20Sdk-33-green)
 
